@@ -1,0 +1,14 @@
+# 全文检索索引缓存（首次运行自动生成）
+.report_index.db
+**/.report_index.db
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 报告库本体不应出现在仓库里
+国奖报告库*/
